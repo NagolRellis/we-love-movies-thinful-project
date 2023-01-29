@@ -32,3 +32,6 @@
 * Write database queries to complete CRUD routes in an Express server.
 * Return joined and nested data with Knex.
 * Write database migrations using Knex's migration tools.
+
+## Deployed on render:
+https://we-love-movies-s3j8.onrender.com
